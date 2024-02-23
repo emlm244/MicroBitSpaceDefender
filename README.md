@@ -1,24 +1,38 @@
+# MicroBitSpaceDefender
 
-> Open this page at [https://emlm244.github.io/microbitspacedefender/](https://emlm244.github.io/microbitspacedefender/)
+Welcome to `MicroBitSpaceDefender`, a thrilling space adventure game developed for the Micro:Bit platform. This game lets you pilot a spaceship, dodge asteroids, and fight for survival in "space".
 
-## Use as Extension
+## Project Overview
 
-This repository can be added as an **extension** in MakeCode.
+In `MicroBitSpaceDefender`, you control a spaceship tasked with avoiding and destroying incoming asteroids. The game increases in difficulty as your score rises, challenging players to beat their high scores while managing limited lives.
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/emlm244/microbitspacedefender** and import
+## Getting Started
 
-## Edit this project
+### Setting Up the Game
 
-To edit this repository in MakeCode.
+To play `MicroBitSpaceDefender` on your Micro:Bit, follow these steps:
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/emlm244/microbitspacedefender** and click import
+1. Connect your Micro:Bit to your computer.
+2. Download the code from this repository.
+3. Upload the code to your Micro:Bit using the Micro:Bit website or your preferred IDE.
 
-#### Metadata (used for search, rendering)
+### Game Controls
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+- **Button A**: Move the spaceship left.
+- **Button B**: Move the spaceship right.
+- **Buttons A + B**: Fire a missile.
+
+## Gameplay
+
+- Avoid and destroy asteroids to increase your score.
+- Keep track of your remaining lives.
+- The game ends when you run out of lives.
+- Try to beat your high score!
+
+## Contributing
+
+Feel free to contribute to the `MicroBitSpaceDefender` project. Whether it's bug fixes, new features, or improvements to the existing code, your contributions are welcome.
+
+---
+
+`MicroBitSpaceDefender` is not affiliated with or endorsed by Micro:Bit or any related entities.
