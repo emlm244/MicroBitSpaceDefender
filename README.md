@@ -1,11 +1,3 @@
-# MicroBitSpaceDefender
-
-Welcome to `MicroBitSpaceDefender`, a thrilling space adventure game developed for the Micro:Bit platform. This game lets you pilot a spaceship, dodge asteroids, and fight for survival in "space".
-
-## Project Overview
-
-In `MicroBitSpaceDefender`, you control a spaceship tasked with avoiding and destroying incoming asteroids. The game increases in difficulty as your score rises, challenging players to beat their high scores while managing limited lives.
-
 ## Getting Started
 
 ### Setting Up the Game
@@ -28,10 +20,6 @@ To play `MicroBitSpaceDefender` on your Micro:Bit, follow these steps:
 - Keep track of your remaining lives.
 - The game ends when you run out of lives.
 - Try to beat your high score!
-
-## Contributing
-
-Feel free to contribute to the `MicroBitSpaceDefender` project. Whether it's bug fixes, new features, or improvements to the existing code, your contributions are welcome.
 
 ---
 
